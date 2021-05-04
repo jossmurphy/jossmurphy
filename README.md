@@ -1,5 +1,4 @@
-# readme
-## Hi, I'm Joss!
+# Hi, I'm Joss!
 > (You try coming up with a logical nickname for Jocelyne.... Joc? Joce?) 
 
 I'm currently exploring several career paths in tech and am looking to dive deeper into fullstack development, 
