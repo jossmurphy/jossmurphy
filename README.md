@@ -7,9 +7,7 @@ Product Management and Product Design! Currently I'm studying Systems Design Eng
 
 
 ### What motivates me:
-🧑‍🤝‍🧑  I'm highly collaborative and love working with, learning from, and creating opportunities for others. 
-
-🏠  I feel most at home when I'm surrounded with people who love to give back. 
+🧑‍🤝‍🧑  I'm highly collaborative and love working with, learning from, and creating opportunities for others. I feel most at home when I'm surrounded with people who love to give back. 
 
 🏆  I'm most proud of the work I've done leading SVP Teens and developing at UW Blueprint, two organizations where students to apply their skills (technical or otherwise) to make a tangible impact on Charitites and Non Profit Organizations. 
 
