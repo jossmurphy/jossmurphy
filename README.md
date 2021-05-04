@@ -11,7 +11,7 @@ Product Management and Product Design!
 
 🌍  I've also recently created an app to diagnose and refer Tuberculosis patients in partnership [Dimagi](https://www.dimagi.com/), an international healthcare organization that has been leading the fight against child mortality and the COVID-19 pandemic.
 
-🤓  Finally, nothing beats the thrill of learning something new, whether that be related to software, policy, design, history, or weird facts about space. Always looking to connect with other mega nerds.
+🤓  Finally, nothing beats the thrill of learning something new, whether that be related to software, policy, design, history, or weird facts about space. Very succeptible to a good old fashioned [nerd snipe](https://www.urbandictionary.com/define.php?term=nerd-snipe).
 
 ### Currently, 
 * I'm on the job hunt! Looking for opportunities to develop my skills and further my understanding of what career paths are possible in tech. 
