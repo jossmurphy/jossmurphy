@@ -7,9 +7,9 @@ Product Management and Product Design!
 ### What motivates me:
 🧑‍🤝‍🧑  I'm highly collaborative and love working with, learning from, and creating opportunities for others. I feel most at home when I'm surrounded with people who love to give back. 
 
-🏆  I'm most proud of the work I've done leading [SVP Teens](https://www.svpteens.org/) and developing at [UW Blueprint](http://uwblueprint.org/), two organizations where students to apply their skills (technical or otherwise) to make a tangible impact on Charitites and Non Profit Organizations. 
+🏆  I'm most proud of the work I've done leading [SVP Teens](https://www.svpteens.org/) and developing at [UW Blueprint](http://uwblueprint.org/), two organizations where students apply their skills (technical or otherwise) to make a tangible impact on Charitites and Non Profit Organizations. 
 
-🌍  I've also recently created an app to diagnose and refer Tuberculosis patients in partnership [Dimagi](https://www.dimagi.com/), an international healthcare organization that has been leading the fight against child mortality and the COVID-19 pandemic.
+🌍  I've also recently created an app to diagnose and refer Tuberculosis patients in partnership with [Dimagi](https://www.dimagi.com/), an international healthcare organization that has been leading the fight against child mortality and the COVID-19 pandemic.
 
 🤓  Finally, nothing beats the thrill of learning something new, whether that be related to software, policy, design, history, or weird facts about space. Very succeptible to a good old fashioned [nerd snipe](https://www.urbandictionary.com/define.php?term=nerd-snipe).
 
@@ -18,7 +18,7 @@ Product Management and Product Design!
 
 * Learning about embedded systems, data structures, and user centric design in my upcoming school term (May - August 2021)! Also learning about calculus. Less excited about that. 
 
-* Volunteering as a project developer @uwblueprint!! Really looking forward to learning while contributing to software solutions that will amplify the impact of the charities we support. 
+* Volunteering as a project developer at [UW Blueprint](http://uwblueprint.org/)! Really looking forward to learning while contributing to software solutions that will amplify the impact of the charities we support. 
 
 ### Connect with me! :iphone:
 [Personal website](https://jossportfolio.web.app)
