@@ -10,7 +10,7 @@ Product Management and Product Design!
 
 * Volunteering as a project developer at [UW Blueprint](http://uwblueprint.org/)! Really looking forward to learning while contributing to software solutions that will amplify the impact of the charities we support. 
 
-* I'm on the job hunt! Looking for opportunities in Summer 2022 to develop my skills and further my understanding of what career paths are possible in tech. 
+* On the job hunt! Looking for opportunities in Summer 2022 to develop my skills and further my understanding of what career paths are possible in tech. 
 
 ### What motivates me:
 🧑‍🤝‍🧑  I'm highly collaborative and love working with, learning from, and creating opportunities for others. I feel most at home when I'm surrounded with people who love to give back. 
