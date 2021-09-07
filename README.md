@@ -17,7 +17,7 @@ Product Management and Product Design!
 
 🏆  I'm most proud of the work I've done leading [SVP Teens](https://www.svpteens.org/) and developing at [UW Blueprint](http://uwblueprint.org/), two organizations where students apply their skills (technical or otherwise) to make a tangible impact on Charitites and Non Profit Organizations. 
 
-🤓  Finally, nothing beats the thrill of learning something new, whether that be related to software, policy, design, history, or weird facts about space. Very succeptible to a good old fashioned [nerd snipe](https://www.urbandictionary.com/define.php?term=nerd-snipe).
+🤓  Finally, nothing beats the thrill of learning something new, whether that be related to software, policy, design, or weird historical facts. Very succeptible to a good old fashioned [nerd snipe](https://www.urbandictionary.com/define.php?term=nerd-snipe).
 
 ### Connect with me! :iphone:
 [Personal website](https://jossportfolio.web.app)
